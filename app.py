@@ -11,7 +11,7 @@ def get_gifs(query):
     return [gif['images']['downsized']['url'] for gif in gifs]
 
 def main():
-    st.title('Giphy Search App')
+    st.title('Giphy Search App!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 
     query = st.text_input('Enter a search term:')
     if query:
